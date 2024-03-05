@@ -17,6 +17,12 @@
     "jsx": "react-jsx",
     "types": ["vitest/globals"]
   },
-  "include": ["vite.config.ts", ".eslintrc.json", "src"],
+  "include": [
+    "tailwind.config.js",
+    "postcss.config.js",
+    "vite.config.ts",
+    ".eslintrc.json",
+    "src"
+  ],
   "references": [{ "path": "./tsconfig.node.json" }]
 }
