@@ -13,8 +13,7 @@ const CMS = {
     text: 'Upload a prepared image from your local device and submit to KYD. You will find an upload button below',
   },
   step3: {
-    title:
-      'Get your prediction and reccomendations (recommendations are still in progress)',
+    title: 'Get your prediction and reccomendations',
     text: 'After submiting you should find a defect name bellow the upload button together with recommendations',
   },
 }
